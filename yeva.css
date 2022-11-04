@@ -1,0 +1,46 @@
+body{
+	background-image: url('moonlight-night-sky-beautiful.jpg');
+	background-size: 100%;
+	color: white;
+}
+a{
+	width: 547px;
+	height: 85px;
+	display: block;
+	padding: 50px;
+	box-sizing: border-box;
+	padding: 8px;
+	background-image: url('zvz.jpg');
+	transition: 1s;
+	border: 0.3px solid white;
+}
+h1{
+	text-align: center;
+	text-decoration: none;
+	margin: 25px;
+}
+.a{
+	border-radius: 50%;
+	border: 0.3px solid white;
+}
+
+.item{
+	position: absolute;
+	left: 570px;
+	top: 0;
+	background: rgba(0, 11, 55, 0.9);
+	padding: 50px;
+	box-sizing: border-box;
+	display: none;
+}
+.item img{
+	width: 10%; 
+}
+
+p{
+	font-size: 25px;
+}
+
+.yeva{
+	font-size: 20px;
+}
